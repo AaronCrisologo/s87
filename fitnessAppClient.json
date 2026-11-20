@@ -1,0 +1,8 @@
+{
+    "url": "https://s87.vercel.app",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "workouts": "/workouts"
+    }
+}
