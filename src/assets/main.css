@@ -1,0 +1,10 @@
+/* App-specific tweaks. Everything else comes from Bootstrap. */
+
+/* Status text: pending is amber, completed is green. No pill background. */
+.status-pending {
+  color: #8a5a00;
+}
+
+.status-completed {
+  color: #146c43;
+}
